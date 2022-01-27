@@ -1,0 +1,18 @@
+@import "../node_modules/angular-calendar/css/angular-calendar.css";
+.trash-icon {
+    float: right;
+    font-size: 15px;
+    margin-top: 7px;
+}
+
+.cal-event-title {
+    font-size: 15px;
+}
+
+.cal-week-view .cal-header.cal-weekend span {
+    display: none;
+}
+
+.cal-week-view .cal-day-headers span {
+    display: none;
+}
